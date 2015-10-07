@@ -15,6 +15,10 @@
 						"uniqueItems": true
 					}
 				},
+				"emitEntryPoint": {
+					"type": "boolean",
+					"default": false
+				},
 				"warningsAsErrors": {
 					"type": "boolean",
 					"default": false
